@@ -9,6 +9,6 @@ export default defineConfig({
         tailwindcss(),
 
     ],
-    base: "/letter",
+    base: "/tulips-and-lilies",
 
 })
